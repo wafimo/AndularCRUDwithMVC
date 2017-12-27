@@ -1,5 +1,6 @@
-# AndularCRUDwithMVC
+# AngularCRUDwithMVC
 CRUD operation using Angular JS and MVC Framework(.NET)
+
 Steps to run the project
 1. Run the script on ur sql server
 2. change the database connection from webconfig as per ur database connection
